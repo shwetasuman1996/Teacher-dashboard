@@ -1,0 +1,14 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.modal {
+  z-index: 50;
+}
+
+.modal-content {
+  max-height: 90vh;
+  overflow-y: auto;
+}
+

@@ -1,0 +1,203 @@
+[
+    {
+      "role_number": "S001",
+      "name": "John Doe",
+      "mobile_number": "+91-9876543210",
+      "registration_number": "R12345",
+      "email": "john.doe@example.com",
+      "subjects": {
+        "English": {"year_1": 85, "year_2": 88, "year_3": 90, "year_4": 92},
+        "Maths": {"year_1": 78, "year_2": 80, "year_3": 84, "year_4": 86},
+        "Physics": {"year_1": 80, "year_2": 82, "year_3": 85, "year_4": 87},
+        "Chemistry": {"year_1": 82, "year_2": 85, "year_3": 86, "year_4": 89}
+      },
+      "extra_skills": ["Sports", "Music"],
+      "attendance": {
+        "year_1": 90,
+        "year_2": 92,
+        "year_3": 89,
+        "year_4": 93
+      }
+    },
+    {
+      "role_number": "S002",
+      "name": "Jane Smith",
+      "mobile_number": "+91-9876543211",
+      "registration_number": "R12346",
+      "email": "jane.smith@example.com",
+      "subjects": {
+        "English": {"year_1": 78, "year_2": 80, "year_3": 82, "year_4": 84},
+        "Maths": {"year_1": 75, "year_2": 77, "year_3": 79, "year_4": 81},
+        "Biology": {"year_1": 88, "year_2": 90, "year_3": 92, "year_4": 94}
+      },
+      "extra_skills": ["Art"],
+      "attendance": {
+        "year_1": 88,
+        "year_2": 85,
+        "year_3": 91,
+        "year_4": 87
+      }
+    },
+    {
+      "role_number": "S003",
+      "name": "Michael Brown",
+      "mobile_number": "+91-9876543212",
+      "registration_number": "R12347",
+      "email": "michael.brown@example.com",
+      "subjects": {
+        "English": {"year_1": 92, "year_2": 94, "year_3": 95, "year_4": 96},
+        "Maths": {"year_1": 85, "year_2": 87, "year_3": 89, "year_4": 90},
+        "Physics": {"year_1": 90, "year_2": 92, "year_3": 94, "year_4": 95},
+        "Chemistry": {"year_1": 88, "year_2": 90, "year_3": 92, "year_4": 93},
+        "Computer Application": {"year_1": 87, "year_2": 89, "year_3": 91, "year_4": 92}
+      },
+      "extra_skills": ["Acting"],
+      "attendance": {
+        "year_1": 94,
+        "year_2": 95,
+        "year_3": 97,
+        "year_4": 96
+      }
+    },
+    {
+      "role_number": "S004",
+      "name": "Emily Davis",
+      "mobile_number": "+91-9876543213",
+      "registration_number": "R12348",
+      "email": "emily.davis@example.com",
+      "subjects": {
+        "English": {"year_1": 80, "year_2": 82, "year_3": 83, "year_4": 85},
+        "Maths": {"year_1": 78, "year_2": 80, "year_3": 81, "year_4": 84},
+        "Physics": {"year_1": 85, "year_2": 87, "year_3": 88, "year_4": 90},
+        "Biology": {"year_1": 89, "year_2": 91, "year_3": 92, "year_4": 93}
+      },
+      "extra_skills": ["Sports"],
+      "attendance": {
+        "year_1": 89,
+        "year_2": 91,
+        "year_3": 90,
+        "year_4": 92
+      }
+    },
+    {
+      "role_number": "S005",
+      "name": "David Wilson",
+      "mobile_number": "+91-9876543214",
+      "registration_number": "R12349",
+      "email": "david.wilson@example.com",
+      "subjects": {
+        "English": {"year_1": 80, "year_2": 82, "year_3": 83, "year_4": 85},
+        "Maths": {"year_1": 72, "year_2": 75, "year_3": 78, "year_4": 80},
+        "Chemistry": {"year_1": 80, "year_2": 82, "year_3": 84, "year_4": 86},
+        "Biology": {"year_1": 84, "year_2": 86, "year_3": 88, "year_4": 90}
+      },
+      "extra_skills": ["Music"],
+      "attendance": {
+        "year_1": 86,
+        "year_2": 85,
+        "year_3": 87,
+        "year_4": 89
+      }
+    },
+    {
+      "role_number": "S006",
+      "name": "Sophia Johnson",
+      "mobile_number": "+91-9876543215",
+      "registration_number": "R12350",
+      "email": "sophia.johnson@example.com",
+      "subjects": {
+        "English": {"year_1": 88, "year_2": 90, "year_3": 92, "year_4": 94},
+        "Maths": {"year_1": 82, "year_2": 84, "year_3": 86, "year_4": 88},
+        "Physics": {"year_1": 85, "year_2": 88, "year_3": 90, "year_4": 91},
+        "Chemistry": {"year_1": 83, "year_2": 85, "year_3": 87, "year_4": 89},
+        "Computer Application": {"year_1": 86, "year_2": 88, "year_3": 90, "year_4": 92}
+      },
+      "extra_skills": ["Art"],
+      "attendance": {
+        "year_1": 92,
+        "year_2": 93,
+        "year_3": 91,
+        "year_4": 90
+      }
+    },
+    {
+      "role_number": "S007",
+      "name": "Daniel Lee",
+      "mobile_number": "+91-9876543216",
+      "registration_number": "R12351",
+      "email": "daniel.lee@example.com",
+      "subjects": {
+        "English": {"year_1": 91, "year_2": 92, "year_3": 93, "year_4": 94},
+        "Maths": {"year_1": 83, "year_2": 85, "year_3": 87, "year_4": 89},
+        "Biology": {"year_1": 85, "year_2": 87, "year_3": 89, "year_4": 90},
+        "Chemistry": {"year_1": 84, "year_2": 85, "year_3": 86, "year_4": 88}
+      },
+      "extra_skills": ["Acting", "Music"],
+      "attendance": {
+        "year_1": 95,
+        "year_2": 96,
+        "year_3": 93,
+        "year_4": 97
+      }
+    },
+    {
+      "role_number": "S008",
+      "name": "Olivia Martinez",
+      "mobile_number": "+91-9876543217",
+      "registration_number": "R12352",
+      "email": "olivia.martinez@example.com",
+      "subjects": {
+        "English": {"year_1": 78, "year_2": 80, "year_3": 82, "year_4": 84},
+        "Maths": {"year_1": 72, "year_2": 75, "year_3": 78, "year_4": 81},
+        "Physics": {"year_1": 75, "year_2": 77, "year_3": 79, "year_4": 82},
+        "Chemistry": {"year_1": 80, "year_2": 83, "year_3": 85, "year_4": 87}
+      },
+      "extra_skills": ["Sports"],
+      "attendance": {
+        "year_1": 89,
+        "year_2": 87,
+        "year_3": 88,
+        "year_4": 85
+      }
+    },
+    {
+      "role_number": "S009",
+      "name": "Liam Taylor",
+      "mobile_number": "+91-9876543218",
+      "registration_number": "R12353",
+      "email": "liam.taylor@example.com",
+      "subjects": {
+        "English": {"year_1": 85, "year_2": 87, "year_3": 88, "year_4": 90},
+        "Maths": {"year_1": 83, "year_2": 85, "year_3": 86, "year_4": 87},
+        "Biology": {"year_1": 92, "year_2": 94, "year_3": 96, "year_4": 97},
+        "Computer Application": {"year_1": 88, "year_2": 89, "year_3": 90, "year_4": 92}
+      },
+      "extra_skills": ["Music"],
+      "attendance": {
+        "year_1": 91,
+        "year_2": 92,
+        "year_3": 90,
+        "year_4": 93
+      }
+    },
+    {
+      "role_number": "S010",
+      "name": "Isabella Harris",
+      "mobile_number": "+91-9876543219",
+      "registration_number": "R12354",
+      "email": "isabella.harris@example.com",
+      "subjects": {
+        "English": {"year_1": 92, "year_2": 93, "year_3": 94, "year_4": 95},
+        "Maths": {"year_1": 81, "year_2": 83, "year_3": 85, "year_4": 86},
+        "Physics": {"year_1": 84, "year_2": 85, "year_3": 86, "year_4": 88},
+        "Chemistry": {"year_1": 85, "year_2": 86, "year_3": 87, "year_4": 89}
+      },
+      "extra_skills": ["Art", "Sports"],
+      "attendance": {
+        "year_1": 94,
+        "year_2": 90,
+        "year_3": 91,
+        "year_4": 95
+      }
+    }
+  ]
